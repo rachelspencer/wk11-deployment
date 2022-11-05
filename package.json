@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "name": "wk11-deployment",
+  "version": "1.0.0",
+  "main": "server/server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelspencer/wk11-deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelspencer/wk11-deployment/issues"
+  },
+  "homepage": "https://github.com/rachelspencer/wk11-deployment#readme",
+  "description": ""
+}
